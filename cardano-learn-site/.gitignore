@@ -1,0 +1,13 @@
+# simple gitignore for hugo. For advanced setup, see https://discourse.gohugo.io/t/the-best-gitignore-for-hugo/20283
+/public/
+/resources/_gen/
+
+hugo.exe
+hugo.linux
+hugo.darwin
+
+# additional ignore 
+.DS_Store
+node_modules
+dist
+tmp

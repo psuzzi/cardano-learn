@@ -71,3 +71,5 @@ For more info, read the [Host on GitHub](https://gohugo.io/hosting-and-deploymen
 In this example, I will publish a project site, that means it is connected to this specific project on GitHub.
 *Note*: GitHub Pages sites are publicly available on the internet by default, even if the repository for the site is private or internal.
 
+Following the [Build Hugo with GitHub Action](https://gohugo.io/hosting-and-deployment/hosting-on-github/#build-hugo-with-github-action) guide, create a `.github/workflows/gh-pages.yml` file with the suggested content.
+
