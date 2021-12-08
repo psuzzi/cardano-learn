@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://psuzzi.github.io/cardano-learn'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Cardano Learn'
 theme = 'ananke'

@@ -73,3 +73,4 @@ In this example, I will publish a project site, that means it is connected to th
 
 Following the [Build Hugo with GitHub Action](https://gohugo.io/hosting-and-deployment/hosting-on-github/#build-hugo-with-github-action) guide, create a `.github/workflows/gh-pages.yml` file with the suggested content.
 
+Then, don’t forget to rename your baseURL in config.toml with the value `https://<USERNAME>.github.io` for your user repository or `https://<USERNAME>.github.io/<REPOSITORY_NAME>` for a project repository.
